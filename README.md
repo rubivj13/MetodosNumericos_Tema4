@@ -1,4 +1,4 @@
-# \t\t\t Métodos numéricos -> Tema 4: Métodos de solución de problemas aplicando diferenciación y integración.
+# Métodos numéricos -> Tema 4: Métodos de solución de problemas aplicando diferenciación y integración.
 
 <h1> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i> SALUDO </i> </b> </font> </h1>
 
